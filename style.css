@@ -1,0 +1,84 @@
+/*INTRO*/
+
+.Home{
+    display: block;
+    height: 800px;
+}
+.card{
+    margin-top: 30px;
+    margin-right: 60px ;
+    width: 18rem;
+    height: 20rem;
+    float: right;
+    border: 2px solid lightseagreen;   
+}
+.card-img-top{
+    width: 18rem;
+    height: 20rem;
+}
+h1{
+    font-size: 100px;
+    font-weight: 900;
+    float: left;
+    padding-right: 800px;
+    padding-top: 100px;
+    padding-left: 50px;
+    color: lightseagreen;
+}
+.mynav{
+    background-color: lightseagreen;
+}
+.navbar-brand{
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+}
+.nav-link{
+    color: white;
+    font-weight: 300;
+    display: inline;
+    float: right;
+    font-size: 25px;
+} 
+.intro{
+    float:left;
+    padding-left: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 20px;
+}
+/*INTRO*/
+
+/*Skills*/
+#skills{
+    display: inline-block;
+    vertical-align: auto;
+}
+h2{
+    font-size: 100px;
+    font-weight: 900;
+    float: left;
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 800px;
+    color: lightseagreen;
+    padding-bottom: 70px;
+} 
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+
+.progress{
+    margin-left: 50px;
+   
+}
+h4{
+    padding-left: 70px ;
+}
+.card{
+    float: left;
+    margin-left: 50px;
+}
